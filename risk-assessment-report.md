@@ -1,8 +1,8 @@
-# Risk Assessment Report — Riverside Family Clinic (Fictional)
+# Risk Assessment Report - Riverside Family Clinic (Fictional)
 
 ## 1. Scope and Context
 
-**Organization:** Riverside Family Clinic (fictional) — a small outpatient healthcare provider with approximately 25 staff, handling electronic patient health records (ePHI), appointment scheduling, and billing.
+**Organization:** Riverside Family Clinic (fictional) - a small outpatient healthcare provider with approximately 25 staff, handling electronic patient health records (ePHI), appointment scheduling, and billing.
 
 **Scope of Assessment:** IT systems and data supporting clinical operations, including the electronic health record (EHR) system, front-desk scheduling system, billing/payment processing, and staff email/communication systems.
 
@@ -49,4 +49,4 @@ Risk scored as **Likelihood (1-5) × Impact (1-5) = Risk Score**, with Low (1-6)
 | R-08 | Mitigate | Move scheduling backups to access-controlled, encrypted storage | Medium |
 
 ## 5. Summary
-This assessment identified 8 risks across the clinic's core information assets, with 2 rated High, 5 Medium, and 1 Low. The highest-priority risks (R-01, R-03) involve the EHR and billing systems — the clinic's most sensitive assets — and stem from missing backups, unpatched systems, and lack of MFA. Recommended treatments focus primarily on mitigation through technical controls (encryption, access control, MFA) and administrative controls (training, access review), consistent with ISO 27001 Annex A control categories detailed in the accompanying Statement of Applicability.
+This assessment identified 8 risks across the clinic's core information assets, with 2 rated High, 5 Medium, and 1 Low. The highest-priority risks (R-01, R-03) involve the EHR and billing systems - the clinic's most sensitive assets - and stem from missing backups, unpatched systems, and lack of MFA. Recommended treatments focus primarily on mitigation through technical controls (encryption, access control, MFA) and administrative controls (training, access review), consistent with ISO 27001 Annex A control categories detailed in the accompanying Statement of Applicability.
