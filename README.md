@@ -23,7 +23,7 @@ Based on ISO/IEC 27001:2022 risk assessment principles:
 - 📄 [Statement of Applicability](statement-of-applicability.md) — Annex A control selection and justification
 
 ## What I Learned
-Practiced translating abstract ISO 27001 risk assessment methodology into a concrete, structured exercise — assigning realistic likelihood/impact scores, and tracing each identified risk through to a specific treatment decision and Annex A control. Building the Statement of Applicability reinforced how GRC documentation isn't just about picking controls, but justifying *why* each one applies (or doesn't) based on the organization's actual risk profile — the same discipline I applied in real ISO 27001 support work at AURISCON, but here driving the full process end-to-end rather than supporting an existing effort.
+Practiced translating abstract ISO 27001 risk assessment methodology into a concrete, structured exercise - assigning realistic likelihood/impact scores, and tracing each identified risk through to a specific treatment decision and Annex A control. Building the Statement of Applicability reinforced how GRC documentation isn't just about picking controls, but justifying *why* each one applies (or doesn't) based on the organization's actual risk profile - the same discipline I applied in real ISO 27001 support work at AURISCON, but here driving the full process end-to-end rather than supporting an existing effort.
 
 ## Next Steps
 Draft a simplified Information Security Policy document derived from the SoA's selected controls, demonstrating the next step in the ISO 27001 documentation chain (risk assessment → SoA → policy).
