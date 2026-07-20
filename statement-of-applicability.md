@@ -1,6 +1,6 @@
 # Statement of Applicability (SoA) - Riverside Family Clinic (Fictional)
 
-Per ISO/IEC 27001, the Statement of Applicability documents which Annex A controls are applicable to the organization, whether they are implemented, and the justification for inclusion or exclusion — directly informed by the risk assessment and treatment plan.
+Per ISO/IEC 27001, the Statement of Applicability documents which Annex A controls are applicable to the organization, whether they are implemented, and the justification for inclusion or exclusion - directly informed by the risk assessment and treatment plan.
 
 | Control Ref | Control Name | Applicable? | Status | Justification (linked to Risk Register) |
 |-------------|----------------|-------------|--------|--------------------------------------------|
