@@ -1,6 +1,6 @@
 # ISO 27001 Risk Assessment — Mock Healthcare Clinic
 
-A mock information security risk assessment for a fictional small healthcare clinic, conducted using ISO/IEC 27001 methodology — asset identification, risk scoring, and treatment recommendations mapped to Annex A controls, plus a Statement of Applicability (SoA).
+A mock information security risk assessment for a fictional small healthcare clinic, conducted using ISO/IEC 27001 methodology - asset identification, risk scoring, and treatment recommendations mapped to Annex A controls, plus a Statement of Applicability (SoA).
 
 ## Why This Project
 
