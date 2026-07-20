@@ -1,4 +1,4 @@
-# Statement of Applicability (SoA) — Riverside Family Clinic (Fictional)
+# Statement of Applicability (SoA) - Riverside Family Clinic (Fictional)
 
 Per ISO/IEC 27001, the Statement of Applicability documents which Annex A controls are applicable to the organization, whether they are implemented, and the justification for inclusion or exclusion — directly informed by the risk assessment and treatment plan.
 
@@ -19,4 +19,4 @@ Per ISO/IEC 27001, the Statement of Applicability documents which Annex A contro
 | A.5.30 | ICT Readiness for Business Continuity | Yes | Planned | Supports resilience of EHR system (A-01) beyond backup alone |
 
 ## Exclusion Rationale Summary
-One control (A.8.28 — Secure Coding) was excluded as not applicable, since the clinic does not engage in any custom software development and relies entirely on third-party clinical systems. All other reviewed controls were determined applicable given the clinic's handling of sensitive patient data and were mapped directly to identified risks in the risk register.
+One control (A.8.28 - Secure Coding) was excluded as not applicable, since the clinic does not engage in any custom software development and relies entirely on third-party clinical systems. All other reviewed controls were determined applicable given the clinic's handling of sensitive patient data and were mapped directly to identified risks in the risk register.
